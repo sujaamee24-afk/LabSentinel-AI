@@ -1,4 +1,4 @@
-                                                                                                                                                  # LabSentinel AI – Multimodal Intelligent Laboratory Safety Agent
+ # LabSentinel AI – Multimodal Intelligent Laboratory Safety Agent
 
 ## About the Project
 LabSentinel AI is an AI-powered laboratory safety monitoring system designed to identify potential hazards and support safer laboratory environments. It combines multimodal inputs, including camera images, environmental sensor readings, and voice or text incident reports, to assess risks and recommend appropriate safety actions.
